@@ -27,4 +27,4 @@ Bu projeyi geliştirirken aşağıdaki teknolojiler kullanılmıştır:
 * Animasyon özelliği.
 
 ---
-*Geliştirici: Evra Durmaz*
+*Geliştirici: Evra Durmaz B241200072*
